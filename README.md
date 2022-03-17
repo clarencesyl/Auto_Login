@@ -3,6 +3,8 @@ A Python script to automatically key in your credentials on a website then login
 
 Does not work with websites that require 2FA when logging in.
 
+Follow comments in code and make changes accordingly.
+
 ### Pre-requisites
 1. Install Google Chrome.
 2. pip install selenium.
