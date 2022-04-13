@@ -1,5 +1,6 @@
 # Auto_Login
 
+## Description
 A Python script to automatically key in your credentials on a website then login using Google Chrome.
 
 Does not work with websites that require 2FA when logging in.
